@@ -6,6 +6,9 @@ The main questions are:
  - How the abortion policies differ across continents?
  - Are more religious countries have stricter abortion policy?
 
+
+The notebook is [here](https://github.com/huyenle/Abortion-Policy-Around-The-World/blob/main/Abortion.ipynb)
+
   
 You can find my relevant blog post on Medium [Abortion policy around the world](https://medium.com/@huyen_le/abortion-policy-around-the-world-d6a06f2e7acd)
 
